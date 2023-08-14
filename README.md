@@ -1,5 +1,7 @@
 # Habit Hero Development Report
 
+## Grade: 18
+
 Welcome to the documentation pages of the Habit Hero!
 
 You can find here details about the product (or mini-app or module), from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of Rational Unified Process): 
